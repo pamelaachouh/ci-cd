@@ -6,4 +6,4 @@ def function2():
     print("bye")
 
 
-function1()
+print(function1())
