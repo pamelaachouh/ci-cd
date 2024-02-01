@@ -5,4 +5,5 @@ def function1():
 def function2():
     print("bye")
 
+
 function1()
